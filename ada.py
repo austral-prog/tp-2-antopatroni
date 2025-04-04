@@ -6,4 +6,4 @@ def ada():
 	print(f"{first_name.upper()} {last_name.upper()}")
 	print(f"\tada lovelace")
 	
-print(ada())
+ada()
